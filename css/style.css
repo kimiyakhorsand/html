@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.float-right {
+    float: right;
+    display: inline-block;
+}
+
+.bergur {
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.n {
+    font-size: 30px;
+    display: inline-block;
+}
+
+.m{
+    vertical-align: middle;
+}
+
+.b{
+    vertical-align: middle;
+    float: right;
+}
+
+.kim {
+    margin-top: 10px;
+    font-size: 30px;
+    
+}
+
+.kimiya {
+    margin-top: 20px;
+}
+
+.jambon {
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 1000px;
+}
+
+.i {
+    margin-bottom: 50px;
+}
+
+.y {
+    margin-top: 150px;
+}
+
+.r {
+    margin-top: 200px;
+    font-size: 30px;
+}
+.w {
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.container {
+    max-width: 1360px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 40px;
+}
+
+body {
+    background-color: rgba(231, 23, 110, 0.644);
+}
